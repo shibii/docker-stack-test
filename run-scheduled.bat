@@ -1,0 +1,1 @@
+docker run --name=scheduled --network=docker-stack --env-file=.env scheduled
